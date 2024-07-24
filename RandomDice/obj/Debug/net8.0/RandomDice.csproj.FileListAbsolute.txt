@@ -1,0 +1,14 @@
+/Users/test/Desktop/task/RandomDice/bin/Debug/net8.0/RandomDice
+/Users/test/Desktop/task/RandomDice/bin/Debug/net8.0/RandomDice.deps.json
+/Users/test/Desktop/task/RandomDice/bin/Debug/net8.0/RandomDice.runtimeconfig.json
+/Users/test/Desktop/task/RandomDice/bin/Debug/net8.0/RandomDice.dll
+/Users/test/Desktop/task/RandomDice/bin/Debug/net8.0/RandomDice.pdb
+/Users/test/Desktop/task/RandomDice/obj/Debug/net8.0/RandomDice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/test/Desktop/task/RandomDice/obj/Debug/net8.0/RandomDice.AssemblyInfoInputs.cache
+/Users/test/Desktop/task/RandomDice/obj/Debug/net8.0/RandomDice.AssemblyInfo.cs
+/Users/test/Desktop/task/RandomDice/obj/Debug/net8.0/RandomDice.csproj.CoreCompileInputs.cache
+/Users/test/Desktop/task/RandomDice/obj/Debug/net8.0/RandomDice.dll
+/Users/test/Desktop/task/RandomDice/obj/Debug/net8.0/refint/RandomDice.dll
+/Users/test/Desktop/task/RandomDice/obj/Debug/net8.0/RandomDice.pdb
+/Users/test/Desktop/task/RandomDice/obj/Debug/net8.0/RandomDice.genruntimeconfig.cache
+/Users/test/Desktop/task/RandomDice/obj/Debug/net8.0/ref/RandomDice.dll

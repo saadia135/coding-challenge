@@ -1,0 +1,14 @@
+/Users/test/Desktop/task/OveridingDice/bin/Debug/net8.0/OveridingDice
+/Users/test/Desktop/task/OveridingDice/bin/Debug/net8.0/OveridingDice.deps.json
+/Users/test/Desktop/task/OveridingDice/bin/Debug/net8.0/OveridingDice.runtimeconfig.json
+/Users/test/Desktop/task/OveridingDice/bin/Debug/net8.0/OveridingDice.dll
+/Users/test/Desktop/task/OveridingDice/bin/Debug/net8.0/OveridingDice.pdb
+/Users/test/Desktop/task/OveridingDice/obj/Debug/net8.0/OveridingDice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/test/Desktop/task/OveridingDice/obj/Debug/net8.0/OveridingDice.AssemblyInfoInputs.cache
+/Users/test/Desktop/task/OveridingDice/obj/Debug/net8.0/OveridingDice.AssemblyInfo.cs
+/Users/test/Desktop/task/OveridingDice/obj/Debug/net8.0/OveridingDice.csproj.CoreCompileInputs.cache
+/Users/test/Desktop/task/OveridingDice/obj/Debug/net8.0/OveridingDice.dll
+/Users/test/Desktop/task/OveridingDice/obj/Debug/net8.0/refint/OveridingDice.dll
+/Users/test/Desktop/task/OveridingDice/obj/Debug/net8.0/OveridingDice.pdb
+/Users/test/Desktop/task/OveridingDice/obj/Debug/net8.0/OveridingDice.genruntimeconfig.cache
+/Users/test/Desktop/task/OveridingDice/obj/Debug/net8.0/ref/OveridingDice.dll

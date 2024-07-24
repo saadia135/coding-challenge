@@ -1,0 +1,14 @@
+/Users/test/Desktop/task/TemperatureCelsius/bin/Debug/net8.0/TemperatureCelsius
+/Users/test/Desktop/task/TemperatureCelsius/bin/Debug/net8.0/TemperatureCelsius.deps.json
+/Users/test/Desktop/task/TemperatureCelsius/bin/Debug/net8.0/TemperatureCelsius.runtimeconfig.json
+/Users/test/Desktop/task/TemperatureCelsius/bin/Debug/net8.0/TemperatureCelsius.dll
+/Users/test/Desktop/task/TemperatureCelsius/bin/Debug/net8.0/TemperatureCelsius.pdb
+/Users/test/Desktop/task/TemperatureCelsius/obj/Debug/net8.0/TemperatureCelsius.GeneratedMSBuildEditorConfig.editorconfig
+/Users/test/Desktop/task/TemperatureCelsius/obj/Debug/net8.0/TemperatureCelsius.AssemblyInfoInputs.cache
+/Users/test/Desktop/task/TemperatureCelsius/obj/Debug/net8.0/TemperatureCelsius.AssemblyInfo.cs
+/Users/test/Desktop/task/TemperatureCelsius/obj/Debug/net8.0/TemperatureCelsius.csproj.CoreCompileInputs.cache
+/Users/test/Desktop/task/TemperatureCelsius/obj/Debug/net8.0/TemperatureCelsius.dll
+/Users/test/Desktop/task/TemperatureCelsius/obj/Debug/net8.0/refint/TemperatureCelsius.dll
+/Users/test/Desktop/task/TemperatureCelsius/obj/Debug/net8.0/TemperatureCelsius.pdb
+/Users/test/Desktop/task/TemperatureCelsius/obj/Debug/net8.0/TemperatureCelsius.genruntimeconfig.cache
+/Users/test/Desktop/task/TemperatureCelsius/obj/Debug/net8.0/ref/TemperatureCelsius.dll

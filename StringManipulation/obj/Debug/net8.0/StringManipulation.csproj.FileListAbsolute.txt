@@ -1,0 +1,14 @@
+/Users/test/Desktop/task/StringManipulation/bin/Debug/net8.0/StringManipulation
+/Users/test/Desktop/task/StringManipulation/bin/Debug/net8.0/StringManipulation.deps.json
+/Users/test/Desktop/task/StringManipulation/bin/Debug/net8.0/StringManipulation.runtimeconfig.json
+/Users/test/Desktop/task/StringManipulation/bin/Debug/net8.0/StringManipulation.dll
+/Users/test/Desktop/task/StringManipulation/bin/Debug/net8.0/StringManipulation.pdb
+/Users/test/Desktop/task/StringManipulation/obj/Debug/net8.0/StringManipulation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/test/Desktop/task/StringManipulation/obj/Debug/net8.0/StringManipulation.AssemblyInfoInputs.cache
+/Users/test/Desktop/task/StringManipulation/obj/Debug/net8.0/StringManipulation.AssemblyInfo.cs
+/Users/test/Desktop/task/StringManipulation/obj/Debug/net8.0/StringManipulation.csproj.CoreCompileInputs.cache
+/Users/test/Desktop/task/StringManipulation/obj/Debug/net8.0/StringManipulation.dll
+/Users/test/Desktop/task/StringManipulation/obj/Debug/net8.0/refint/StringManipulation.dll
+/Users/test/Desktop/task/StringManipulation/obj/Debug/net8.0/StringManipulation.pdb
+/Users/test/Desktop/task/StringManipulation/obj/Debug/net8.0/StringManipulation.genruntimeconfig.cache
+/Users/test/Desktop/task/StringManipulation/obj/Debug/net8.0/ref/StringManipulation.dll

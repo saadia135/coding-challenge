@@ -1,0 +1,14 @@
+/Users/test/Desktop/task/DataTypes/bin/Debug/net8.0/DataTypes
+/Users/test/Desktop/task/DataTypes/bin/Debug/net8.0/DataTypes.deps.json
+/Users/test/Desktop/task/DataTypes/bin/Debug/net8.0/DataTypes.runtimeconfig.json
+/Users/test/Desktop/task/DataTypes/bin/Debug/net8.0/DataTypes.dll
+/Users/test/Desktop/task/DataTypes/bin/Debug/net8.0/DataTypes.pdb
+/Users/test/Desktop/task/DataTypes/obj/Debug/net8.0/DataTypes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/test/Desktop/task/DataTypes/obj/Debug/net8.0/DataTypes.AssemblyInfoInputs.cache
+/Users/test/Desktop/task/DataTypes/obj/Debug/net8.0/DataTypes.AssemblyInfo.cs
+/Users/test/Desktop/task/DataTypes/obj/Debug/net8.0/DataTypes.csproj.CoreCompileInputs.cache
+/Users/test/Desktop/task/DataTypes/obj/Debug/net8.0/DataTypes.dll
+/Users/test/Desktop/task/DataTypes/obj/Debug/net8.0/refint/DataTypes.dll
+/Users/test/Desktop/task/DataTypes/obj/Debug/net8.0/DataTypes.pdb
+/Users/test/Desktop/task/DataTypes/obj/Debug/net8.0/DataTypes.genruntimeconfig.cache
+/Users/test/Desktop/task/DataTypes/obj/Debug/net8.0/ref/DataTypes.dll

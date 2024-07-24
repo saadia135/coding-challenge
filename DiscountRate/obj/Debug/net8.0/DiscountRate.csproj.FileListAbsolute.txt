@@ -1,0 +1,14 @@
+/Users/test/Desktop/task/DiscountRate/bin/Debug/net8.0/DiscountRate
+/Users/test/Desktop/task/DiscountRate/bin/Debug/net8.0/DiscountRate.deps.json
+/Users/test/Desktop/task/DiscountRate/bin/Debug/net8.0/DiscountRate.runtimeconfig.json
+/Users/test/Desktop/task/DiscountRate/bin/Debug/net8.0/DiscountRate.dll
+/Users/test/Desktop/task/DiscountRate/bin/Debug/net8.0/DiscountRate.pdb
+/Users/test/Desktop/task/DiscountRate/obj/Debug/net8.0/DiscountRate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/test/Desktop/task/DiscountRate/obj/Debug/net8.0/DiscountRate.AssemblyInfoInputs.cache
+/Users/test/Desktop/task/DiscountRate/obj/Debug/net8.0/DiscountRate.AssemblyInfo.cs
+/Users/test/Desktop/task/DiscountRate/obj/Debug/net8.0/DiscountRate.csproj.CoreCompileInputs.cache
+/Users/test/Desktop/task/DiscountRate/obj/Debug/net8.0/DiscountRate.dll
+/Users/test/Desktop/task/DiscountRate/obj/Debug/net8.0/refint/DiscountRate.dll
+/Users/test/Desktop/task/DiscountRate/obj/Debug/net8.0/DiscountRate.pdb
+/Users/test/Desktop/task/DiscountRate/obj/Debug/net8.0/DiscountRate.genruntimeconfig.cache
+/Users/test/Desktop/task/DiscountRate/obj/Debug/net8.0/ref/DiscountRate.dll

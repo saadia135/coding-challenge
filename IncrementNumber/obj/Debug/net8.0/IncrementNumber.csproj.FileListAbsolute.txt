@@ -1,0 +1,14 @@
+/Users/test/Desktop/task/IncrementNumber/bin/Debug/net8.0/IncrementNumber
+/Users/test/Desktop/task/IncrementNumber/bin/Debug/net8.0/IncrementNumber.deps.json
+/Users/test/Desktop/task/IncrementNumber/bin/Debug/net8.0/IncrementNumber.runtimeconfig.json
+/Users/test/Desktop/task/IncrementNumber/bin/Debug/net8.0/IncrementNumber.dll
+/Users/test/Desktop/task/IncrementNumber/bin/Debug/net8.0/IncrementNumber.pdb
+/Users/test/Desktop/task/IncrementNumber/obj/Debug/net8.0/IncrementNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/test/Desktop/task/IncrementNumber/obj/Debug/net8.0/IncrementNumber.AssemblyInfoInputs.cache
+/Users/test/Desktop/task/IncrementNumber/obj/Debug/net8.0/IncrementNumber.AssemblyInfo.cs
+/Users/test/Desktop/task/IncrementNumber/obj/Debug/net8.0/IncrementNumber.csproj.CoreCompileInputs.cache
+/Users/test/Desktop/task/IncrementNumber/obj/Debug/net8.0/IncrementNumber.dll
+/Users/test/Desktop/task/IncrementNumber/obj/Debug/net8.0/refint/IncrementNumber.dll
+/Users/test/Desktop/task/IncrementNumber/obj/Debug/net8.0/IncrementNumber.pdb
+/Users/test/Desktop/task/IncrementNumber/obj/Debug/net8.0/IncrementNumber.genruntimeconfig.cache
+/Users/test/Desktop/task/IncrementNumber/obj/Debug/net8.0/ref/IncrementNumber.dll

@@ -1,0 +1,14 @@
+/Users/test/Desktop/task/ClearNumbers/obj/Debug/net8.0/ClearNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/test/Desktop/task/ClearNumbers/obj/Debug/net8.0/ClearNumbers.AssemblyInfoInputs.cache
+/Users/test/Desktop/task/ClearNumbers/obj/Debug/net8.0/ClearNumbers.AssemblyInfo.cs
+/Users/test/Desktop/task/ClearNumbers/obj/Debug/net8.0/ClearNumbers.csproj.CoreCompileInputs.cache
+/Users/test/Desktop/task/ClearNumbers/bin/Debug/net8.0/ClearNumbers
+/Users/test/Desktop/task/ClearNumbers/bin/Debug/net8.0/ClearNumbers.deps.json
+/Users/test/Desktop/task/ClearNumbers/bin/Debug/net8.0/ClearNumbers.runtimeconfig.json
+/Users/test/Desktop/task/ClearNumbers/bin/Debug/net8.0/ClearNumbers.dll
+/Users/test/Desktop/task/ClearNumbers/bin/Debug/net8.0/ClearNumbers.pdb
+/Users/test/Desktop/task/ClearNumbers/obj/Debug/net8.0/ClearNumbers.dll
+/Users/test/Desktop/task/ClearNumbers/obj/Debug/net8.0/refint/ClearNumbers.dll
+/Users/test/Desktop/task/ClearNumbers/obj/Debug/net8.0/ClearNumbers.pdb
+/Users/test/Desktop/task/ClearNumbers/obj/Debug/net8.0/ClearNumbers.genruntimeconfig.cache
+/Users/test/Desktop/task/ClearNumbers/obj/Debug/net8.0/ref/ClearNumbers.dll

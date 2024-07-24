@@ -1,0 +1,14 @@
+/Users/test/Desktop/task/IncrementDecrement/bin/Debug/net8.0/IncrementDecrement
+/Users/test/Desktop/task/IncrementDecrement/bin/Debug/net8.0/IncrementDecrement.deps.json
+/Users/test/Desktop/task/IncrementDecrement/bin/Debug/net8.0/IncrementDecrement.runtimeconfig.json
+/Users/test/Desktop/task/IncrementDecrement/bin/Debug/net8.0/IncrementDecrement.dll
+/Users/test/Desktop/task/IncrementDecrement/bin/Debug/net8.0/IncrementDecrement.pdb
+/Users/test/Desktop/task/IncrementDecrement/obj/Debug/net8.0/IncrementDecrement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/test/Desktop/task/IncrementDecrement/obj/Debug/net8.0/IncrementDecrement.AssemblyInfoInputs.cache
+/Users/test/Desktop/task/IncrementDecrement/obj/Debug/net8.0/IncrementDecrement.AssemblyInfo.cs
+/Users/test/Desktop/task/IncrementDecrement/obj/Debug/net8.0/IncrementDecrement.csproj.CoreCompileInputs.cache
+/Users/test/Desktop/task/IncrementDecrement/obj/Debug/net8.0/IncrementDecrement.dll
+/Users/test/Desktop/task/IncrementDecrement/obj/Debug/net8.0/refint/IncrementDecrement.dll
+/Users/test/Desktop/task/IncrementDecrement/obj/Debug/net8.0/IncrementDecrement.pdb
+/Users/test/Desktop/task/IncrementDecrement/obj/Debug/net8.0/IncrementDecrement.genruntimeconfig.cache
+/Users/test/Desktop/task/IncrementDecrement/obj/Debug/net8.0/ref/IncrementDecrement.dll

@@ -1,0 +1,14 @@
+/Users/test/Desktop/task/SystemCollection/bin/Debug/net8.0/SystemCollection
+/Users/test/Desktop/task/SystemCollection/bin/Debug/net8.0/SystemCollection.deps.json
+/Users/test/Desktop/task/SystemCollection/bin/Debug/net8.0/SystemCollection.runtimeconfig.json
+/Users/test/Desktop/task/SystemCollection/bin/Debug/net8.0/SystemCollection.dll
+/Users/test/Desktop/task/SystemCollection/bin/Debug/net8.0/SystemCollection.pdb
+/Users/test/Desktop/task/SystemCollection/obj/Debug/net8.0/SystemCollection.GeneratedMSBuildEditorConfig.editorconfig
+/Users/test/Desktop/task/SystemCollection/obj/Debug/net8.0/SystemCollection.AssemblyInfoInputs.cache
+/Users/test/Desktop/task/SystemCollection/obj/Debug/net8.0/SystemCollection.AssemblyInfo.cs
+/Users/test/Desktop/task/SystemCollection/obj/Debug/net8.0/SystemCollection.csproj.CoreCompileInputs.cache
+/Users/test/Desktop/task/SystemCollection/obj/Debug/net8.0/SystemCollection.dll
+/Users/test/Desktop/task/SystemCollection/obj/Debug/net8.0/refint/SystemCollection.dll
+/Users/test/Desktop/task/SystemCollection/obj/Debug/net8.0/SystemCollection.pdb
+/Users/test/Desktop/task/SystemCollection/obj/Debug/net8.0/SystemCollection.genruntimeconfig.cache
+/Users/test/Desktop/task/SystemCollection/obj/Debug/net8.0/ref/SystemCollection.dll

@@ -1,0 +1,14 @@
+/Users/test/Desktop/task/OrderIds/bin/Debug/net8.0/OrderIds
+/Users/test/Desktop/task/OrderIds/bin/Debug/net8.0/OrderIds.deps.json
+/Users/test/Desktop/task/OrderIds/bin/Debug/net8.0/OrderIds.runtimeconfig.json
+/Users/test/Desktop/task/OrderIds/bin/Debug/net8.0/OrderIds.dll
+/Users/test/Desktop/task/OrderIds/bin/Debug/net8.0/OrderIds.pdb
+/Users/test/Desktop/task/OrderIds/obj/Debug/net8.0/OrderIds.GeneratedMSBuildEditorConfig.editorconfig
+/Users/test/Desktop/task/OrderIds/obj/Debug/net8.0/OrderIds.AssemblyInfoInputs.cache
+/Users/test/Desktop/task/OrderIds/obj/Debug/net8.0/OrderIds.AssemblyInfo.cs
+/Users/test/Desktop/task/OrderIds/obj/Debug/net8.0/OrderIds.csproj.CoreCompileInputs.cache
+/Users/test/Desktop/task/OrderIds/obj/Debug/net8.0/OrderIds.dll
+/Users/test/Desktop/task/OrderIds/obj/Debug/net8.0/refint/OrderIds.dll
+/Users/test/Desktop/task/OrderIds/obj/Debug/net8.0/OrderIds.pdb
+/Users/test/Desktop/task/OrderIds/obj/Debug/net8.0/OrderIds.genruntimeconfig.cache
+/Users/test/Desktop/task/OrderIds/obj/Debug/net8.0/ref/OrderIds.dll
